@@ -1,0 +1,15 @@
+{
+  "data": [
+      {
+          "type": "scattergeo"
+      }
+  ],
+  "layout": {
+      "geo": {
+          "projection": {
+              "type": "orthographic"
+          }
+      }
+  },
+  "frames": []
+}
